@@ -182,4 +182,3 @@ def prop_plot(n, dim, num, nMC=100):
 
 # Example usage:
 # prop_plot(n=500, dim = 2, num = [1,3,5,10])
-prop_plot(n=500, dim = 2, num = [1,3])
