@@ -1,5 +1,5 @@
 # This code produces the matching plots comparing the proportion of correctly recovered vertices after shuffling
-# for OmniMatch and S-OmniMatch (Figure 2 and Figure 8) with varying number of shuffled vertices, embedding dimensions, 
+# for OmniMatch and S-OmniMatch (Figures 1-2 and Figure 8) with varying number of shuffled vertices, embedding dimensions, 
 # and number of neighbors used in S-OmniMatch. 
 #
 # The code is written in parallel for faster computation.
