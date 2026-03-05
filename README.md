@@ -2,3 +2,5 @@
 We present the OmniMatch algorithm for seeded multiple graph matching. In the setting of d-dimensional Random Dot Product Graphs (RDPG), we prove that under mild assumptions, OmniMatch with s seeds asymptotically and efficiently perfectly aligns O(s^alpha) unseeded vertices for alpha< 2^d/4 across multiple networks even in the presence of no edge correlation. We demonstrate the effectiveness of our algorithm across numerous simulations and in the context of shuffled graph hypothesis testing. In the shuffled testing setting, testing power is lost due to the misalignment/shuffling of vertices across graphs, and we demonstrate the capacity of OmniMatch to correct for misaligned vertices prior to testing and hence recover the lost testing power. We further demonstrate the algorithm on a pair of data examples from connectomics and machine translation.
 
 The dataset about connectomes that consists of 10 DTMRI brain scans for each of 30 subjects is from the HNU1 data repository at https://neurodata.io/mri/ (Diffusion MRI, Desikan_space-MNI152NLin6_res-2x2x2). 
+
+The English dataset is found in the `en.csv` file, and the Zulu dataset is found in the `zu.csv` file.
