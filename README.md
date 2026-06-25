@@ -4,3 +4,5 @@ We present the OmniMatch algorithm for seeded multiple graph matching. In the se
 The dataset about connectomes that consists of 10 DTMRI brain scans for each of 30 subjects is from the HNU1 data repository at https://neurodata.io/mri/ (Diffusion MRI, Desikan_space-MNI152NLin6_res-2x2x2). 
 
 The English dataset is found in the `en.csv` file, and the Zulu dataset is found in the `zu.csv` file.
+
+The paper link is https://arxiv.org/pdf/2506.02825.
